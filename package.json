@@ -1,0 +1,27 @@
+{
+  "name": "listparser",
+  "version": "1.0.0",
+  "description": "Taking JSON from the HubSpot List API and consolidating down into a CSV",
+  "main": "app.js",
+  "scripts": {
+    "test": "tbd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "list"
+  ],
+  "author": "Steve Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "json2csv": "^4.3.5"
+  }
+}

@@ -1,0 +1,6 @@
+*.csv
+*.zip
+.DS_Store
+/json/*.json
+/node_modules/
+package-lock.json
